@@ -1,7 +1,5 @@
 # Mock-API
 
-This is a nodeJS API mock for the real API https://achambear.pe/api/.
-
 This Mock API has been designed using the next tools:
 
 - [JSON Server](https://github.com/typicode/json-server)
